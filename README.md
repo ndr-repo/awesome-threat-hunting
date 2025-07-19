@@ -27,3 +27,22 @@ A public repository for cyber threat hunters.
 - [VSCan](https://vscan.dev/) - VSCode Extensions 
 
 - [CRXcavator](https://crxcavator.io/) - Chrome Extensions
+
+## Threat Intelligence
+
+### Enterprise Products - Detection References
+
+### Enterprise WAFs - L7 Application Detections
+- [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
+
+- [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
+
+- [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
+
+### Threat Intelligence Portals
+
+- [LevelBlue OTX](https://otx.alienvault.com/)
+
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+
+- [PulseDive](https://pulsedive.com/)
