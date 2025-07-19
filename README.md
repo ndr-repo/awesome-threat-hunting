@@ -59,6 +59,7 @@ Detection rules may be picked up by AV as malicious.
   - [Rapid7 Velociraptor](https://docs.velociraptor.app/) - Windows/Linux
   - [Microsoft Attack Surface Analyzer](https://microsoft.github.io/AttackSurfaceAnalyzer/index.html) - Windows
   - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - Windows
+  - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
       
 ## Network Security
 
