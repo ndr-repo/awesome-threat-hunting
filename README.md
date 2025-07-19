@@ -18,11 +18,11 @@
 - [LevelBlue OTX](https://otx.alienvault.com/)
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [PulseDive](https://pulsedive.com/)
-### IoC Search Engines
+## IoC Search Engines
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
 - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes) 
 ## Network Security
-### Enterprise WAF References - L7 Application Detections
+## Enterprise WAF References - L7 Application Detections
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
 - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
 - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
