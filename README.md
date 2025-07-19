@@ -28,10 +28,10 @@ Detection rules may be picked up by AV as malicious.
     - [PulseDive](https://pulsedive.com/)
 
 - **Search Engines - Indicators of Compromise (IoC)**
-    - [(Cisco) Talos Intelligence Search](https://talosintelligence.com/reputation_center)
+    - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
     - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
     - [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
-    - [(FortiNet) FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
+    - [FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
 
 - **Search Engines - Malware**
   - [MalwareBazaar](https://bazaar.abuse.ch/)
