@@ -1,7 +1,7 @@
 # awesome-threat-hunting
 A public repository for cyber threat hunters.
 
-## Malware Analysis
+## File Analysis
 ### Online - File Analysis
 
 - [VirusTotal](https://virustotal.com/)
@@ -22,7 +22,7 @@ A public repository for cyber threat hunters.
 
 - [UnpacMe](https://www.unpac.me/)
 
-### Online - Specialty File Analysis
+### Online - Extension File Analysis
 
 - [VSCan](https://vscan.dev/) - VSCode Extensions 
 
