@@ -4,7 +4,7 @@
 - [VirusTotal](https://virustotal.com/)
 - [Hybrid Analysis - Falcon Sandbox](https://hybrid-analysis.com/) - Uses detections from CrowdStrike Falcon Sandbox
 - [Recorded Future Triage](https://tria.ge/) - Focused around threat hunters & DFIR analysts. Offers a hosted interactive sandbox for opening files and URLs.
-- [Inquest Labs - Deep File Inspection](https://labs.inquest.net/dfi) 
+- [IQquest Labs - Deep File Inspection](https://labs.inquest.net/dfi) 
 - [Cuckoo 3 - cert.ee](https://cuckoo-hatch.cert.ee/) - Cuckoo 3 - Maintained by CERT Estonia 
 - [Cuckoo 2 - cert.ee](https://cuckoo.cert.ee/) - Cuckoo 2.0.7 - Maintained by CERT Estonia
 - [Threat.Zone](https://app.threat.zone/)
@@ -32,7 +32,7 @@ Check if a URL or IP has been classified as malicious by specific vendors.
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 - [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
-- [Filescan.IO - Yara Rules](https://github.com/filescanio/fsYara)
+- [Filescan.io - Yara Rules](https://github.com/filescanio/fsYara)
 ## Network Security
 ## Enterprise WAF References - L7 Application Detections
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
