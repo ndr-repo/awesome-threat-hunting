@@ -38,6 +38,12 @@ A public repository for cyber threat hunters.
 
 - [PulseDive](https://pulsedive.com/)
 
+### IoC Search Engines
+
+- [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
+
+- [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes) 
+
 ## Network Security
 
 ### Enterprise WAF References - L7 Application Detections
