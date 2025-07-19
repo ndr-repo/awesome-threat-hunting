@@ -1,5 +1,5 @@
 # awesome-threat-hunting
-A public repository for defensive security resources.
+A public repository for cyber threat hunters.
 
 ## Malware Analysis
 ### Online - File Analysis
