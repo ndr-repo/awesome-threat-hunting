@@ -1,16 +1,14 @@
 # awesome-threat-hunting
-
 A public repository for defensive security resources.
 
 ## Malware Analysis
-
 ### Online - File Analysis
 
 [VirusTotal](https://virustotal.com/) - General
 
 [Hybrid Analysis - Falcon Sandbox](https://hybrid-analysis.com/) - CrowdStrike
 
-[Recorded Future Triage](https://tria.ge/)- Focused around Threat Hunters & DFIR Analysts
+[Recorded Future Triage](https://tria.ge/) - Focused around Threat Hunters & DFIR Analysts
 
 [Cuckoo 3 - cert.ee](https://cuckoo-hatch.cert.ee/) - Cuckoo 3 - Maintained by CERT Estonia 
 
