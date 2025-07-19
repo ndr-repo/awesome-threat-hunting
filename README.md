@@ -52,10 +52,12 @@ Detection rules may be picked up by AV as malicious.
     - [Yara Forensic Rules](https://github.com/Xumeiquer/yara-forensics)
 
 ## Endpoint Security
+
 - Investigation Tools 
-  - [osquery](https://github.com/osquery/osquery/releases)
-  - [Rapid7 Velociraptor](https://docs.velociraptor.app/)
-  - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/)
+  - [osquery](https://github.com/osquery/osquery/releases) - Windows/Linux
+  - [Rapid7 Velociraptor](https://docs.velociraptor.app/) - Windows/Linux
+  - [Microsoft Attack Surface Analyzer](https://microsoft.github.io/AttackSurfaceAnalyzer/index.html) - Windows
+  - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - Windows
       
 ## Network Security
 
