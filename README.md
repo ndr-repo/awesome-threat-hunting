@@ -14,6 +14,12 @@
 ## Online - Extension File Analysis
 - [VSCan](https://vscan.dev/) - VSCode Extensions 
 - [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
+## Detection Search - Antivirus & Threat Protection Vendors
+Check if a URL or IP has been classified as malicious by specific vendors.
+- [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
+- [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
+- [ProofPoint Dynamic Reputation - IP Lookup](https://ipcheck.proofpoint.com/)
+- [WebRoot BrightCloud - URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
 ## Threat Intelligence
 ## Threat Intelligence Portals
 - [LevelBlue OTX](https://otx.alienvault.com/)
