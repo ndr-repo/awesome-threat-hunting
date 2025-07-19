@@ -41,6 +41,7 @@ Detection rules may be picked up by AV as malicious.
     - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
     - [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
     - [Filescan.io - Yara Rules](https://github.com/filescanio/fsYara)
+    - [Yara Forensic Rules](https://github.com/Xumeiquer/yara-forensics)
       
 ## Network Security
 
