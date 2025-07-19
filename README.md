@@ -13,7 +13,7 @@
   - [Filescan.io](https://www.filescan.io/scan) 
   - [UnpacMe](https://www.unpac.me/)
     
-- **Online - Extension File Analysis**
+- **Online - File Analysis - Extensions**
   - [VSCan](https://vscan.dev/) - VSCode Extensions 
   - [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
 
@@ -49,7 +49,8 @@ Detection rules may be picked up by AV as malicious.
   - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
   - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
     
-- Detection Search - Antivirus & Threat Protection Vendors 
+- Detection Search - Antivirus & Threat Protection Vendors
+  - [FortiGuard Labs - WebFilter](https://www.fortiguard.com/webfilter) 
   - [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
   - [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
   - [ProofPoint Dynamic Reputation - IP Lookup](https://ipcheck.proofpoint.com/)
