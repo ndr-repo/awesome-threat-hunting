@@ -1,4 +1,6 @@
 # awesome-threat-hunting
+A public repository to share resources for cyber threat hunters.
+
 ## File Analysis
 
 - **Online - File Analysis**
