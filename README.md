@@ -14,12 +14,6 @@
 ## Online - Extension File Analysis
 - [VSCan](https://vscan.dev/) - VSCode Extensions 
 - [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
-## Detection Search - Antivirus & Threat Protection Vendors
-Check if a URL or IP has been classified as malicious by specific vendors.
-- [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
-- [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
-- [ProofPoint Dynamic Reputation - IP Lookup](https://ipcheck.proofpoint.com/)
-- [WebRoot BrightCloud - URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
 ## Threat Intelligence
 ## Threat Intelligence Portals
 - [LevelBlue OTX](https://otx.alienvault.com/)
@@ -29,6 +23,10 @@ Check if a URL or IP has been classified as malicious by specific vendors.
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
 - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
 - [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
+## Search Engines - Malware
+Be careful when downloading malware samples. 
+- [MalwareBazaar](https://bazaar.abuse.ch/)
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 - [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
@@ -38,4 +36,9 @@ Check if a URL or IP has been classified as malicious by specific vendors.
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
 - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
 - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
-
+## Detection Search - Antivirus & Threat Protection Vendors
+Check if a URL or IP has been classified as malicious by specific vendors.
+- [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
+- [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
+- [ProofPoint Dynamic Reputation - IP Lookup](https://ipcheck.proofpoint.com/)
+- [WebRoot BrightCloud - URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
