@@ -32,6 +32,7 @@ Check if a URL or IP has been classified as malicious by specific vendors.
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 - [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
+- [Filescan.IO - Yara Rules](https://github.com/filescanio/fsYara)
 ## Network Security
 ## Enterprise WAF References - L7 Application Detections
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
