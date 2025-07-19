@@ -62,7 +62,9 @@ Detection rules may be picked up by AV as malicious.
   - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
       
 ## Network Security
-
+- Investigation References
+  - [Nmap2CSV](https://github.com/ndr-repo/Nmap2CSV) - Create a local reference file of ports & protocols according to latest Nmap detection intel
+    
 - Enterprise WAF References - L7 Application Detections
   - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
   - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
