@@ -27,6 +27,7 @@
 - [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
+- [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
 ## Network Security
 ## Enterprise WAF References - L7 Application Detections
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
