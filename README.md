@@ -1,4 +1,6 @@
 # awesome-threat-hunting
+<img width="600" height="375" alt="image" src="https://github.com/user-attachments/assets/9319c90c-d965-414e-8cf2-51d2e1cc1d69" />
+
 ## File Analysis
 ## Online - File Analysis
 - [VirusTotal](https://virustotal.com/)
@@ -18,10 +20,10 @@
 - [LevelBlue OTX](https://otx.alienvault.com/)
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [PulseDive](https://pulsedive.com/)
-## Search Engines - Indicators of Compromise (IoCs)
+## Search Engines - Indicators of Compromise (IoC)
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
 - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
-- [InQuest Labs - IoCDB](https://labs.inquest.net/iocdb)
+- [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 ## Network Security
