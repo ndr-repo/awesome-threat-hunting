@@ -19,6 +19,12 @@ A public repository to share resources for cyber threat hunters.
   - [VSCan](https://vscan.dev/) - VSCode Extensions 
   - [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
 
+- **Offline/Self-Hosted - File Analysis**
+  - [Mandiant/Google - Capa](https://github.com/mandiant/capa)
+  - [Target - Strelka](https://github.com/target/strelka)
+  - [CERT Estonia - Cuckoo 3](https://github.com/cert-ee/cuckoo3)
+   
+
 ## Threat Intelligence
 
 Be careful when downloading live malware samples. 
