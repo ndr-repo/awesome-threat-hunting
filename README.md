@@ -8,7 +8,7 @@ A public repository for cyber threat hunters.
 
 - [Hybrid Analysis - Falcon Sandbox](https://hybrid-analysis.com/) - Uses detections from CrowdStrike Falcon Sandbox
 
-- [Recorded Future Triage](https://tria.ge/) - Focused around threat hunters & DFIR analysts. Offers a hosted interactive sandbox for opening files and URLs via Guacamole. 
+- [Recorded Future Triage](https://tria.ge/) - Focused around threat hunters & DFIR analysts. Offers a hosted interactive sandbox for opening files and URLs. 
 
 - [Cuckoo 3 - cert.ee](https://cuckoo-hatch.cert.ee/) - Cuckoo 3 - Maintained by CERT Estonia 
 
