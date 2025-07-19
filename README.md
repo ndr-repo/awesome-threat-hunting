@@ -18,9 +18,12 @@
 - [LevelBlue OTX](https://otx.alienvault.com/)
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
 - [PulseDive](https://pulsedive.com/)
-## IoC Search Engines
+## Search Engines - Indicators of Compromise (IoCs)
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
-- [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes) 
+- [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
+- [InQuest Labs - IOCDB](https://labs.inquest.net/iocdb)
+## Detection Engineering
+- [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 ## Network Security
 ## Enterprise WAF References - L7 Application Detections
 - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
