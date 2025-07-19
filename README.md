@@ -1,6 +1,4 @@
 # awesome-threat-hunting
-<img width="600" height="375" alt="image" src="https://github.com/user-attachments/assets/9319c90c-d965-414e-8cf2-51d2e1cc1d69" />
-
 ## File Analysis
 ## Online - File Analysis
 - [VirusTotal](https://virustotal.com/)
