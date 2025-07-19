@@ -26,7 +26,7 @@ A public repository for cyber threat hunters.
 
 - [VSCan](https://vscan.dev/) - VSCode Extensions 
 
-- [CRXcavator](https://crxcavator.io/) - Chrome Extensions
+- [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
 
 ## Threat Intelligence
 
