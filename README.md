@@ -50,6 +50,12 @@ Detection rules may be picked up by AV as malicious.
     - [InQuest Labs - Yara Rules](https://github.com/InQuest/yara-rules)
     - [Filescan.io - Yara Rules](https://github.com/filescanio/fsYara)
     - [Yara Forensic Rules](https://github.com/Xumeiquer/yara-forensics)
+
+## Endpoint Security
+- Investigation Tools 
+  - [osquery](https://github.com/osquery/osquery/releases)
+  - [Rapid7 Velociraptor](https://docs.velociraptor.app/)
+  - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/)
       
 ## Network Security
 
