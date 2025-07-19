@@ -21,7 +21,7 @@
 ## Search Engines - Indicators of Compromise (IoCs)
 - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
 - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
-- [InQuest Labs - IOCDB](https://labs.inquest.net/iocdb)
+- [InQuest Labs - IoCDB](https://labs.inquest.net/iocdb)
 ## Detection Engineering
 - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
 ## Network Security
