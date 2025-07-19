@@ -21,7 +21,7 @@ A public repository to share resources for cyber threat hunters.
 
 - **Offline/Self-Hosted - File Analysis**
   - [Mandiant/Google - Capa](https://github.com/mandiant/capa)
-  - [Target - Strelka](https://github.com/target/strelka)
+  - [Target - Strelka](https://github.com/target/strelka) - Used in [Security Onion 2.4](https://docs.securityonion.net/en/2.4/strelka.html)
   - [CERT Estonia - Cuckoo 3](https://github.com/cert-ee/cuckoo3)
    
 
