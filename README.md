@@ -23,7 +23,7 @@ A public repository to share resources for cyber threat hunters.
   - [Mandiant/Google - Capa](https://github.com/mandiant/capa)
   - [Target - Strelka](https://github.com/target/strelka) - Used in [Security Onion 2.4](https://docs.securityonion.net/en/2.4/strelka.html)
   - [CERT Estonia - Cuckoo 3](https://github.com/cert-ee/cuckoo3)
-  - [Yara CLI](https://yara.readthedocs.io/en/v3.4.0/commandline.html) - Yara CLI can be used with rulesets to scan data-at-rest. 
+  - [Yara CLI](https://yara.readthedocs.io/en/v3.4.0/commandline.html) - Yara CLI can be used with rulesets to scan files at rest. 
 
 ## Threat Intelligence
 
