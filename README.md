@@ -54,23 +54,29 @@ Detection rules may be picked up by AV as malicious.
 ## Endpoint Security
 
 - **Endpoint Investigation Tools**
-  
   - [osquery](https://github.com/osquery/osquery/releases) - Windows/Linux
   - [Rapid7 Velociraptor](https://docs.velociraptor.app/) - Windows/Linux
   - [Microsoft Attack Surface Analyzer](https://microsoft.github.io/AttackSurfaceAnalyzer/index.html) - Windows
   - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - Windows
   - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
+
+These are more focused around event logs and system configuration auditing, rather than packet capture & network scanning. Some of the above tools do have added functionality for pcap, but they are not dedicated tools.
       
 ## Network Security
-- Investigation References
+
+- **Network Investigation Tools**
+  - [pktmon](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/pktmon) - Windows - Packet Monitor (Pktmon) is an in-box, cross-component network diagnostics tool for Windows. It can be used for advanced packet capture and event collection, drop detection, filtering, and counting.
+  - [Suricata](https://suricata.io/) - Windows/Linux
+  
+- **Investigation References**
   - [Nmap2CSV](https://github.com/ndr-repo/Nmap2CSV) - Create a local reference file of ports & protocols according to latest Nmap detection intel
     
-- Enterprise WAF References - L7 Application Detections
+- **Enterprise WAF References - L7 Application Detections**
   - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
   - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
   - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
     
-- Detection Search - Antivirus & Threat Protection Vendors
+- **Detection Search - Antivirus & Threat Protection Vendors**
   - [FortiGuard Labs - WebFilter](https://www.fortiguard.com/webfilter) 
   - [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
   - [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
