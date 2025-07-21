@@ -23,7 +23,7 @@ A public repository to share resources for cyber threat hunters.
   - [Mandiant/Google - Capa](https://github.com/mandiant/capa)
   - [Target - Strelka](https://github.com/target/strelka) - Used in [Security Onion 2.4](https://docs.securityonion.net/en/2.4/strelka.html)
   - [CERT Estonia - Cuckoo 3](https://github.com/cert-ee/cuckoo3)
-   
+  - [Yara CLI](https://yara.readthedocs.io/en/v3.4.0/commandline.html) - Yara CLI can be used with rulesets to scan data-at-rest. 
 
 ## Threat Intelligence
 
@@ -60,13 +60,14 @@ Detection rules may be picked up by AV as malicious.
   - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - Windows
   - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
 
-These are more focused around event logs and system configuration auditing, rather than packet capture & network scanning. Some of the above tools do have added functionality for pcap, but they are not dedicated analysis tools.
+These are more focused around event logs and system configuration auditing, rather than network traffic inspection. Some of the above tools do have added functionality for packet capture, but they are not dedicated analysis tools.
       
 ## Network Security
 
 - **Network Investigation Tools**
   - [pktmon](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/pktmon) - Windows - Packet Monitor (Pktmon) is an in-box, cross-component network diagnostics tool for Windows. It can be used for advanced packet capture and event collection, drop detection, filtering, and counting.
   - [Suricata](https://suricata.io/) - Windows/Linux
+  - [NetworkMiner](https://www.netresec.com/?page=networkminer) - Windows/Linux - NetworkMiner is an open source network forensics tool that extracts artifacts, such as files, images, emails and passwords, from captured network traffic in PCAP files. NetworkMiner can also be used to capture live network traffic by sniffing a network interface.
   
 - **Investigation References**
   - [Nmap2CSV](https://github.com/ndr-repo/Nmap2CSV) - Create a local reference file of ports & protocols according to latest Nmap detection intel
