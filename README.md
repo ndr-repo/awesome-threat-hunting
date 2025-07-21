@@ -53,6 +53,10 @@ Detection rules may be picked up by AV as malicious.
 
 ## Endpoint Security
 
+- **Incident Response Tools - Endpoint**
+  - [Chainsaw](https://github.com/WithSecureLabs/chainsaw) - Windows
+  - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - Windows
+
 - **Endpoint Investigation Tools**
   
   - [osquery](https://github.com/osquery/osquery/releases) - Windows/Linux
