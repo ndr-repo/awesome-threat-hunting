@@ -20,9 +20,9 @@ A public repository to share resources for cyber threat hunters.
   - [CRXcavator](https://crxcavator.io/) - Browser Extensions (Edge, Firefox, Chrome)
 
 - **Offline/Self-Hosted - File Analysis**
-  - [Mandiant/Google - Capa](https://github.com/mandiant/capa)
-  - [Target - Strelka](https://github.com/target/strelka) - Used in [Security Onion 2.4](https://docs.securityonion.net/en/2.4/strelka.html)
-  - [CERT Estonia - Cuckoo 3](https://github.com/cert-ee/cuckoo3)
+  - [Capa](https://github.com/mandiant/capa)
+  - [Strelka](https://github.com/target/strelka) - Used in [Security Onion 2.4](https://docs.securityonion.net/en/2.4/strelka.html)
+  - [Cuckoo 3](https://github.com/cert-ee/cuckoo3)
   - [Yara CLI](https://yara.readthedocs.io/en/v3.4.0/commandline.html) - Yara CLI can be used with rulesets to scan files at rest. 
 
 ## Threat Intelligence
@@ -66,7 +66,12 @@ Detection rules may be picked up by AV as malicious.
   - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
 
 These are more focused around event logs and system configuration auditing, rather than network traffic inspection. Some of the above tools do have added functionality for packet capture, but they are not dedicated analysis tools.
-      
+
+- **Investigation References**
+
+  - [MyEventID - Windows Event ID Lookup](https://www.myeventlog.com/)
+  - [EventSentry - Windows Sysmon Event Reference](https://system32.eventsentry.com/sysmon/events)
+  
 ## Network Security
 
 - **Network Investigation Tools**
