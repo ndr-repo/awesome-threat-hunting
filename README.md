@@ -66,7 +66,7 @@ Detection rules may be picked up by AV as malicious.
   - [ESET SysInspector](https://www.eset.com/int/support/sysinspector/) - Windows
   - [Lynis](https://cisofy.com/lynis/#introduction) - Linux/macOS
 
-These are more focused around event logs and system configuration auditing, rather than network traffic inspection. Some of the above tools do have added functionality for packet capture, but they are not dedicated analysis tools.
+These are more focused around event logs and system configuration auditing, rather than network traffic inspection. Some of the above tools do have added functionality for packet capture, but they are not dedicated network analysis tools.
 
 - **Investigation References**
 
