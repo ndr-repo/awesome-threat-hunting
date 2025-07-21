@@ -1,5 +1,4 @@
 # awesome-threat-hunting
-A public repository to share resources for cyber threat hunters.
 
 ## File Analysis
 
@@ -57,6 +56,7 @@ Detection rules may be picked up by AV as malicious.
 - **Incident Response Tools - Endpoint**
   - [Chainsaw](https://github.com/WithSecureLabs/chainsaw) - Windows
   - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - Windows
+  - [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon) - Windows
 
 - **Endpoint Investigation Tools**
   
@@ -88,9 +88,3 @@ These are more focused around event logs and system configuration auditing, rath
   - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
   - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
     
-- **Detection Search - Antivirus & Threat Protection Vendors**
-  - [FortiGuard Labs - WebFilter](https://www.fortiguard.com/webfilter) 
-  - [Zscaler - Zulu URL Risk Analyzer](https://threatlabz.zscaler.com/tool/url-analysis)
-  - [Norton SafeWeb - URL Lookup](https://safeweb.norton.com/)
-  - [ProofPoint Dynamic Reputation - IP Lookup](https://ipcheck.proofpoint.com/)
-  - [WebRoot BrightCloud - URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
