@@ -83,6 +83,7 @@ These are more focused around event logs and system configuration auditing, rath
   
 - **Investigation References**
   - [Nmap2CSV](https://github.com/ndr-repo/Nmap2CSV) - Create a local reference file of ports & protocols according to latest Nmap detection intel
+  - [IANA - Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
     
 - **Enterprise WAF References - L7 Application Detections**
   - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
