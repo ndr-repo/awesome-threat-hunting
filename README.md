@@ -39,6 +39,7 @@ Detection rules may be picked up by AV as malicious.
     - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
     - [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
     - [FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
+    - [Trend Micro - Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
 
 - **Search Engines - Malware**
   - [MalwareBazaar](https://bazaar.abuse.ch/)
