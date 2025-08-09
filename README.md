@@ -38,12 +38,13 @@ Detection rules may be picked up by AV as malicious.
     - [Talos Intelligence Search](https://talosintelligence.com/reputation_center)
     - [hunting.abuse.ch](https://hunting.abuse.ch/) -  Hunt across all abuse.ch platforms with one simple query. (IP, Domain, Hashes)
     - [InQuest Labs - IoC DB](https://labs.inquest.net/iocdb)
-    - [FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
-    - [Trend Micro - Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
+    
 
 - **Search Engines - Malware**
   - [MalwareBazaar](https://bazaar.abuse.ch/)
   - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+  - [FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
+  - [Trend Micro - Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
 
 - **Detection Engineering**
     - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
@@ -74,6 +75,7 @@ These are more focused around event logs and system configuration auditing, rath
 
   - [MyEventID - Windows Event ID Lookup](https://www.myeventlog.com/)
   - [EventSentry - Windows Sysmon Event Reference](https://system32.eventsentry.com/sysmon/events)
+  - [EventSentry - Windows Applocker Event Reference](https://system32.eventsentry.com/applocker/events)
   
 ## Network Security
 
