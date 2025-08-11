@@ -99,6 +99,6 @@ These are more focused around event logs and system configuration auditing, rath
     
 - **Enterprise WAF References - L7 Application Detections**
   - [Cisco - Secure Firewall Application Detectors (App-ID)](https://appid.cisco.com)
-  - [Palo Alto Networks - Applipedia](https://applipedia.paloaltonetworks.com/)
+  - [Palo Alto Networks - Application Research Center](https://applipedia.paloaltonetworks.com/)
   - [FortiGuard Labs - Application Control](https://www.fortiguard.com/appcontrol)
     
