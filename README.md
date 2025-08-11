@@ -71,12 +71,21 @@ Detection rules may be picked up by AV as malicious.
 
 These are more focused around event logs and system configuration auditing, rather than network traffic inspection. Some of the above tools do have added functionality for packet capture, but they are not dedicated network analysis tools.
 
-- **Investigation References**
+- **Investigation References - Windows**
 
   - [MyEventID - Windows Event ID Lookup](https://www.myeventlog.com/)
   - [EventSentry - Windows Sysmon Event Reference](https://system32.eventsentry.com/sysmon/events)
   - [EventSentry - Windows Applocker Event Reference](https://system32.eventsentry.com/applocker/events)
-  
+
+- **Endpoint Compliance Validation - Microsoft Windows**
+ - [Key Security Events for PCI-DSS Compliance](https://system32.eventsentry.com/compliance/PCI-DSS)
+ - [Key Security Events for NIST 800-171 Compliance](https://system32.eventsentry.com/compliance/NIST%20800-171)
+ - [Key Security Events for CJIS Compliance](https://system32.eventsentry.com/compliance/CJIS)
+ - [Key Security Events for CMMC Compliance](https://system32.eventsentry.com/compliance/CMMC)
+ - [Key Security Events for ISO 27001:2013 Compliance](https://system32.eventsentry.com/compliance/ISO%2027001:2013)
+ - [Key Security Events for HIPAA Compliance](https://system32.eventsentry.com/compliance/HIPAA)
+ - [Key Security Events for NIST SP 800-53 Compliance](https://system32.eventsentry.com/compliance/NIST%20SP%20800-53)
+
 ## Network Security
 
 - **Network Investigation Tools**
