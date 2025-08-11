@@ -43,8 +43,10 @@ Detection rules may be picked up by AV as malicious.
 - **Search Engines - Malware**
   - [MalwareBazaar](https://bazaar.abuse.ch/)
   - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+  - [Windows Defender Security Intelligence - Threat Intel Search](https://www.microsoft.com/en-us/wdsi/threats/threat-search)
   - [FortiGuard Labs - Threat Intel Search](https://www.fortiguard.com/threatintel-search)
   - [Trend Micro - Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia)
+  - [SonicWall Capture Labs - Threat Catalog, Anti-Virus & Anti-Spyware](https://capturelabs.sonicwall.com/m/feature/catalog/anti-virus)
 
 - **Detection Engineering**
     - [Elastic Detection Rules](https://elastic.github.io/detection-rules-explorer/)
